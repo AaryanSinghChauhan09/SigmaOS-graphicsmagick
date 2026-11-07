@@ -1,0 +1,8 @@
+[package]
+name = "sigmaos_graphicsmagick"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "sigmaos_graphicsmagick"
+path = "src/lib.rs"
